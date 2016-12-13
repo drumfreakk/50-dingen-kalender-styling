@@ -1,0 +1,26 @@
+.maandBlok {
+	width:275px;
+	height:185px;
+	border:1px solid red;
+	display:inline-block;
+	margin-left:37px;
+	margin-top:20px;
+}
+
+.maandTitel {
+	font-family:Courier;
+	white-space:pre-line;		
+}
+
+.maandTekst {
+	white-space:pre-line;
+}
+
+table{
+	height:185px;
+	width:275px;
+}
+
+.maand {
+	font-family:Cursive;
+}
