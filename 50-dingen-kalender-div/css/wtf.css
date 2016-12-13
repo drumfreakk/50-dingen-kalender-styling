@@ -1,3 +1,11 @@
+/* begin resultaat */
+#resultaatDiv {
+	background-image: url("../img/achtergrond01.JPG");
+	background-repeat: no-repeat;
+}
+
+
+
 .maandBlok {
 	width:275px;
 	height:185px;
